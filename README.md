@@ -1,2 +1,7 @@
-# c-coding
-my own code
+//c-coding
+#include<stdio.h>
+void main()
+{
+    printf("Hello World");
+    return 0;
+}
