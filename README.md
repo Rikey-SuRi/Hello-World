@@ -1,7 +1,1 @@
-//c-coding
-#include<stdio.h>
-void main()
-{
-    printf("Hello World");
-    return 0;
-}
+Hello, World code with different programming languages.
