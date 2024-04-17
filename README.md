@@ -1,7 +1,5 @@
-//c-coding
-#include<stdio.h>
-void main()
-{
-    printf("Hello World");
-    return 0;
-}
+# Hello, World Programs
+    Hellow World Code
+## Using Python Code
+    File Name: hello_world.py
+    Execution: python3 hello_world.py
